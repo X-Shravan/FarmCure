@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62371766098",
+    "project_id": "farmcure-80fca",
+    "storage_bucket": "farmcure-80fca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62371766098:android:e506370c57020f7d01a48b",
+        "android_client_info": {
+          "package_name": "com.example.farmcure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMmUCAkg4rV_8xoALU4wNZvZo02oBarX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+[versions]
+agp = "8.3.2"  # Updated to latest stable (8.8.1 isn't released yet)
+kotlin = "1.9.22"  # Updated to match AGP compatibility
+junit = "4.13.2"
+junitVersion = "1.1.5"  # Updated to stable version
+espressoCore = "3.5.1"  # Updated to stable version
+appcompat = "1.6.1"  # Updated to stable version
+material = "1.11.0"  # Updated to stable version
+activity = "1.8.2"  # Updated to stable version
+constraintlayout = "2.1.4"
+googleGmsGoogleServices = "4.4.2"
+firebaseAnalytics = "21.5.0"  # Updated to stable version
+
+
+[libraries]
+# Test dependencies
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+ext-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
+espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
+
+# AndroidX dependencies
+appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
+constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+firebase-analytics = { group = "com.google.firebase", name = "firebase-analytics", version.ref = "firebaseAnalytics" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+kotlin-kapt = { id = "org.jetbrains.kotlin.kapt", version.ref = "kotlin" }
+google-gms-google-services = { id = "com.google.gms.google-services", version.ref = "googleGmsGoogleServices" }
