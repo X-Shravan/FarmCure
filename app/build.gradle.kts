@@ -57,7 +57,9 @@ dependencies {
     implementation("com.google.mlkit:image-labeling:17.0.7") // Standard image labeling
     implementation("com.google.mlkit:image-labeling-custom:17.0.1") // For custom models
     implementation("com.google.mlkit:object-detection:17.0.0") // Object detection
-    implementation("com.google.mlkit:text-recognition:16.0.0") // Text recognition
+    implementation("com.google.mlkit:text-recognition:16.0.0")
+    implementation(libs.activity)
+    implementation(libs.firebase.auth) // Text recognition
 
     // Testing
     testImplementation("junit:junit:4.13.2")

@@ -121,7 +121,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Prepare the request body for Gemini API
         com.example.farmcure.model.GeminiRequest prompt = new com.example.farmcure.model.GeminiRequest("What is the solution for " + diseaseName + " in crops?");
-        Call<com.example.farmcure.model.GeminiResponse> call = api.generateContent("Your Api key", prompt);
+        Call<com.example.farmcure.model.GeminiResponse> call = api.generateContent("Your api key", prompt);
 
         call.enqueue(new Callback<com.example.farmcure.model.GeminiResponse>() {
             @Override
