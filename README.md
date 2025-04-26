@@ -39,6 +39,12 @@ An intelligent Android application that helps farmers and agricultural enthusias
 
 > ![WhatsApp Image 2025-04-18 at 11 17 27_fa1d9b50](https://github.com/user-attachments/assets/0d9d71fc-0e9b-4626-9cb6-9a307280137a)
 > ![WhatsApp Image 2025-04-18 at 11 17 27_a1936d3c](https://github.com/user-attachments/assets/57b765c0-6879-4ec9-b01b-c5aef433d337)
+> ![WhatsApp Image 2025-04-26 at 22 10 28_c795d669](https://github.com/user-attachments/assets/7cf0c0de-b364-4f59-a598-3c751dd59bbd)
+> ![WhatsApp Image 2025-04-26 at 22 12 00_a3bcbb6e](https://github.com/user-attachments/assets/66a0ff45-0fc4-47b1-8b85-832761e808c4)
+> ![image](https://github.com/user-attachments/assets/09b8ce0f-66c8-4e7a-b5fe-40e746be2ebd)
+
+
+
 
 
 
