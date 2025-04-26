@@ -1,5 +1,8 @@
 # 🌾 Crop Disease Detection Android App
+PRESENTATION OF PROJECT
 https://docs.google.com/presentation/d/17gP1mdujkoVKt5qQR0uKbZzw9VMn-8ET/edit?usp=sharing&ouid=107393075318847872813&rtpof=true&sd=true
+
+
 An intelligent Android application that helps farmers and agricultural enthusiasts identify plant diseases using image recognition and provides AI-generated solutions.
 
 - 🔍 Built using **Java** (logic) and **Kotlin XML** (UI)
